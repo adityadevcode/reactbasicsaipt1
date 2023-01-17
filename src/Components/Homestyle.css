@@ -1,0 +1,27 @@
+.welcome-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .welcome-page h2 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-page p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    margin-bottom: 40px;
+  }
+  
+  .welcome-page a {
+    font-size: 1.2em;
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .welcome-page h3 {
+    font-size: 1.2em;
+    color: #007bff;
+    text-decoration: none;
+  }
